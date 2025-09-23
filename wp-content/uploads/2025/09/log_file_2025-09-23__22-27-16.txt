@@ -1,0 +1,26 @@
+
+---Downloaded files---
+The import files for: Pixgraphy Free were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/projects/get_ip_customers
+Data file = C:\xampp\htdocs\projects\get_ip_customers\wp-content\plugins\theme-freesia-demo-import\files/dummy/pixgraphy/pixgraphy.wordpress.xml
+Widget file = not defined!
+Customizer file = C:\xampp\htdocs\projects\get_ip_customers\wp-content\plugins\theme-freesia-demo-import\files/dummy/pixgraphy/pixgraphy-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
